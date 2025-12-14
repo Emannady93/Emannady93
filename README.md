@@ -6,7 +6,7 @@
 
 Projects that contributed to develop them (Android) (IOS)
     <ul dir="auto">
-    <li><strong>Nursury App app</strong> it is under devoloping for education porpouse </li>
+    <li><strong>Nursury App app</strong>Educational app currently under development (Flutter). </li>
 <li><strong>Tawsiala App</strong> (<a href="https://play.google.com/store/apps/details?id=app.ZtechX.tawsiala" rel="nofollow">Android</a>) (<a href="https://apps.apple.com/us/app/id1588895753" rel="nofollow">IOS</a>)  Transport app rebuilt in Flutter (original version in Xamarin).</li>
 <li><strong>Kafaynak</strong><br/> Marketplace app for building materials (supplier and buyer roles). Removed from stores (Flutter).</li>
 <li><strong>Sahab app</strong> (<a href="https://play.google.com/store/apps/details?id=com.ZTechX.sahab" rel="nofollow">Android</a>) (<a href="https://apps.apple.com/us/app/id6450647616" rel="nofollow">IOS</a>)<br/>Employee management app for attendance, permissions, overtime, and holidays also employee signure for important files of meetings through  the app. Migrated from Xamarin to Flutter.</li>
